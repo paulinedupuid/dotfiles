@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pauline.dupuid@gmail.com
+	name = Pauline Dupuid
